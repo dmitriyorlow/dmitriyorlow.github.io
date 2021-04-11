@@ -1,0 +1,24 @@
+.top {
+    display: flex;
+    background-color: lawngreen;
+    justify-content: start;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-style: oblique;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: fuchsia;
+}
+.kartinki {
+    display: flex;
+    justify-content: center ;
+    padding: 10px;
+}
+.zakaz {
+    color: red;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    background-color:greenyellow;
+}
